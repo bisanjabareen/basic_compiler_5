@@ -1,5 +1,5 @@
 # Compiler for a custom and 'simplified' version of C, FanC
-This is a compiler my classmate Rouya and I (Bisan) created as part of our compilation theory class. 
+This is a compiler we created as part of our compilation theory class. 
 It was a semester-long project 
 
 # What is a compiler
