@@ -9,7 +9,7 @@ A compiler is essentially a translator.
 We translated FanC to LLVM IR. A low-level 'intermediate' abstract assembly-like language. 
 
 # Why LLVM?
-As mentioned above, LLVM IR is ABSTRACT. It doesn't target any hardware-specific architecture. Most assembly versions out there are specifically designed to run on certain architecture. 
+As mentioned above, LLVM IR is ABSTRACT. It doesn't target any hardware-dependent architecture. Most assembly versions out there are specifically designed to run on certain architecture. 
 We didn't want to target a specific architecture (86X / ARM ect).
 
 # High-level design overview
